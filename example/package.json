@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "mb-sketch-ruler": "link:..",
+    "mb-sketch-ruler": "^1.2.0-dev.11",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
